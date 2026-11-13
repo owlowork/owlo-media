@@ -1,0 +1,30 @@
+{
+  "week": "2026-W47",
+  "items": [
+    {
+      "id": "w1-1-meet", "type": "image", "slot": "2026-11-17T11:00+04:00", "theme": "Ինչպես է աշխատում",
+      "file": "w1-1-meet.jpg",
+      "caption": "Ծանոթացեք՝ Owlo 🦉\nԼուսանկարեք հաշիվ-ապրանքագիրը։ Owlo-ն կկարդա ամեն տողը և սևագիր կդնի iiko-ում։ Վերջին խոսքը Ձերն է։\n\nЗнакомьтесь: Owlo. Сфотографируйте накладную — Owlo прочитает каждую строку и создаст черновик в iiko. Последнее слово — за вами.\n\nMeet Owlo. Snap the invoice — Owlo reads every line and drafts it in iiko. You have the last word.\n\nhello@owlo.work\n#owlo #iiko #ֆուդքոսթ #фудкост #restaurant"
+    },
+    {
+      "id": "w1-r1-checked", "type": "reel", "slot": "2026-11-18T19:00+04:00", "theme": "Մեկ սխալ տող",
+      "file": "w1-r1-checked.mp4", "cover": "w1-r1-checked-cover.jpg",
+      "caption": "Owlo-ն կարդում է ամեն տողը։ Կասկածելի տողը նշում է նարնջագույնով, որ Դուք նայեք։\n\nOwlo читает каждую строку. Подозрительную отмечает оранжевым — проверьте её.\n\nOwlo reads every line and flags the odd one for you to check.\n\n#owlo #iiko #накладные #restaurant"
+    },
+    {
+      "id": "w1-2-wrongline", "type": "image", "slot": "2026-11-19T11:00+04:00", "theme": "Մեկ սխալ տող",
+      "file": "w1-2-wrongline.jpg",
+      "caption": "Մեկ սխալ տողը փչացնում է ֆուդքոսթը։\nՕրինակ՝ կարագի գինը 4 850-ի փոխարեն մուտքագրվել է 48 500։ Owlo-ն նշում է այդ տողը, որ Դուք նայեք։\n\nОдна неверная строка портит фудкост. Пример: вместо 4 850 за масло внесли 48 500. Owlo отмечает такую строку.\n\nOne wrong line ruins your food cost. Owlo flags it so you can check.\n\n#owlo #ֆուդքոսթ #фудкост #iiko"
+    },
+    {
+      "id": "w1-r2-friday", "type": "reel", "slot": "2026-11-20T19:00+04:00", "theme": "Հաշվապահի կյանքը",
+      "file": "w1-r2-friday.mp4", "cover": "w1-r2-friday-cover.jpg",
+      "caption": "Ուրբաթ, 18:00։ Թղթերը՝ Owlo-ին։ Երեկոն՝ Ձեզ։ 🦉\n\nПятница, 18:00. Бумаги — Owlo. Вечер — вам.\n\nFriday, 6 pm. Paperwork to Owlo. Evening to you.\n\n#owlo #бухгалтер #հաշվապահ #iiko"
+    },
+    {
+      "id": "w1-3-steps", "type": "image", "slot": "2026-11-21T11:00+04:00", "theme": "Ինչպես է աշխատում",
+      "file": "w1-3-steps.jpg",
+      "caption": "Երեք քայլ.\n1. Լուսանկարեք հաշիվ-ապրանքագիրը։\n2. Owlo-ն սևագիր է դնում iiko-ում։\n3. Դուք հաստատում եք iiko-ում։\nՄիացնում ենք մենք՝ hello@owlo.work\n\nТри шага: фото → черновик в iiko → вы подтверждаете. Подключаем сами: hello@owlo.work\n\nThree steps: snap → draft in iiko → you approve. We set it up: hello@owlo.work\n\n#owlo #iiko #restaurant"
+    }
+  ]
+}
