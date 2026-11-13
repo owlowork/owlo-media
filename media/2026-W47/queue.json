@@ -9,7 +9,8 @@
    "file": "w0-launch.jpg",
    "caption": "Owlo-ն արդեն աշխատում է։ 🦉\nԼուսանկարեք հաշիվ-ապրանքագիրը։ Owlo-ն կկարդա ամեն տողը և սևագիր կդնի iiko-ում։ Կասկածելի տողը կնշի, որ Դուք նայեք։ Վերջին խոսքը Ձերն է։\nԱռաջին հաճախորդը՝ Երևանի 6 ռեստորանից բաղկացած խումբ։\nԱռաջին ամիսը՝ անվճար։ Միացնում ենք մենք՝ hello@owlo.work\n\nOwlo уже работает. Сфотографируйте накладную — Owlo прочитает каждую строку и создаст черновик в iiko. Подозрительную строку отметит. Последнее слово — за вами. Первый клиент — группа из 6 ресторанов в Ереване. Первый месяц бесплатно: hello@owlo.work\n\nOwlo is live. Snap the invoice — Owlo reads every line and drafts it in iiko. It flags the odd line. You have the last word. First client: a 6-restaurant group in Yerevan. First month free: hello@owlo.work\n\n#owlo #iiko #ֆուդքոսթ #фудкост #restaurant",
    "status": "published",
-   "media_id": "17981629601914724"
+   "media_id": "17981629601914724",
+   "fb_post_id": "1446177121912626_122105091309542081"
   },
   {
    "id": "w1-r1-checked",
@@ -22,7 +23,9 @@
    "cover": "w1-r1-checked-cover.jpg",
    "media_id": "18110418668200476",
    "published_at": "2026-11-13T13:38+04:00",
-   "note": "published early on Arsen request 13.11"
+   "note": "published early on Arsen request 13.11",
+   "fb_post_id": null,
+   "fb_note": "reels not supported by Windsor on FB"
   },
   {
    "id": "w1-2-wrongline",
@@ -34,7 +37,8 @@
    "status": "published",
    "media_id": "18077634980480459",
    "published_at": "2026-11-13T13:38+04:00",
-   "note": "published early on Arsen request 13.11"
+   "note": "published early on Arsen request 13.11",
+   "fb_post_id": "1446177121912626_122105091981542081"
   },
   {
    "id": "w1-r3-faq",
@@ -47,7 +51,9 @@
    "cover": "w1-r3-faq-cover.jpg",
    "media_id": "18174441223493800",
    "published_at": "2026-11-13T13:38+04:00",
-   "note": "published early on Arsen request 13.11"
+   "note": "published early on Arsen request 13.11",
+   "fb_post_id": null,
+   "fb_note": "reels not supported by Windsor on FB"
   },
   {
    "id": "w1-3-steps",
@@ -59,7 +65,8 @@
    "status": "published",
    "media_id": "18023148173958610",
    "published_at": "2026-11-13T13:38+04:00",
-   "note": "published early on Arsen request 13.11"
+   "note": "published early on Arsen request 13.11",
+   "fb_post_id": "1446177121912626_122105092173542081"
   },
   {
    "id": "w1-r4-price",
@@ -72,7 +79,9 @@
    "cover": "w1-r4-price-cover.jpg",
    "media_id": "17888246940504226",
    "published_at": "2026-11-13T13:38+04:00",
-   "note": "published early on Arsen request 13.11"
+   "note": "published early on Arsen request 13.11",
+   "fb_post_id": null,
+   "fb_note": "reels not supported by Windsor on FB"
   },
   {
    "id": "w1-4-who",
@@ -84,7 +93,8 @@
    "status": "published",
    "media_id": "18005324670195402",
    "published_at": "2026-11-13T13:38+04:00",
-   "note": "published early on Arsen request 13.11"
+   "note": "published early on Arsen request 13.11",
+   "fb_post_id": "1446177121912626_122105092485542081"
   },
   {
    "id": "w1-r2-friday",
@@ -97,7 +107,9 @@
    "cover": "w1-r2-friday-cover.jpg",
    "media_id": "18129876031860699",
    "published_at": "2026-11-13T13:38+04:00",
-   "note": "published early on Arsen request 13.11"
+   "note": "published early on Arsen request 13.11",
+   "fb_post_id": null,
+   "fb_note": "reels not supported by Windsor on FB"
   }
  ]
 }
