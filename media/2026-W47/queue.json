@@ -18,7 +18,7 @@
    "theme": "Ինչպես է աշխատում",
    "file": "w1-r1-checked.mp4",
    "caption": "Owlo-ն կարդում է ամեն տողը։ Կասկածելի տողը նշում է նարնջագույնով, որ Դուք նայեք։ 🦉\n\nOwlo читает каждую строку. Подозрительную отмечает оранжевым — чтобы вы проверили.\n\nOwlo reads every line. It flags the odd one in orange, so you can check it.\n\nhello@owlo.work\n#owlo #iiko #накладные #restaurant",
-   "status": "pending_approval",
+   "status": "approved",
    "cover": "w1-r1-checked-cover.jpg"
   },
   {
@@ -28,7 +28,7 @@
    "theme": "Մեկ սխալ տող",
    "file": "w1-2-wrongline.jpg",
    "caption": "Մեկ սխալ տողը փչացնում է ֆուդքոսթը։\nՕրինակ՝ կարագի գինը 4 850-ի փոխարեն մուտքագրվել է 48 500։ Owlo-ն նշում է այդ տողը, որ Դուք նայեք։\n\nОдна неверная строка портит фудкост. Пример: вместо 4 850 за масло внесли 48 500. Owlo отмечает такую строку, чтобы вы проверили.\n\nOne wrong line ruins your food cost. Example: butter entered at 48 500 instead of 4 850. Owlo flags that line so you can check it.\n\nhello@owlo.work\n#owlo #ֆուդքոսթ #фудкост #foodcost #iiko",
-   "status": "pending_approval"
+   "status": "approved"
   },
   {
    "id": "w1-r3-faq",
@@ -36,8 +36,8 @@
    "slot": "2026-11-16T19:00+04:00",
    "theme": "FAQ / վստահություն",
    "file": "w1-r3-faq.mp4",
-   "caption": "Owlo-ն ինքը՞ է հաստատում։ Ոչ։\nOwlo-ն կարդում է ամեն տողը և սևագիր է դնում iiko-ում։ Հաստատում եք Դուք։ Վերջին խոսքը Ձերն է։\n\nOwlo сам проводит накладную? Нет. Owlo читает каждую строку и создаёт черновик в iiko. Подтверждаете вы. Последнее слово — за вами.\n\nDoes Owlo approve by itself? No. Owlo reads every line and drafts it in iiko. You approve. You have the last word.\n\nhello@owlo.work\n#owlo #iiko #бухгалтер #հաշվապահ",
-   "status": "pending_approval",
+   "caption": "Owlo-ն ինքն է հաստատո՞ւմ։ Ոչ։\nOwlo-ն կարդում է ամեն տողը և սևագիր է դնում iiko-ում։ Հաստատում եք Դուք։ Վերջին խոսքը Ձերն է։\n\nOwlo сам проводит накладную? Нет. Owlo читает каждую строку и создаёт черновик в iiko. Подтверждаете вы. Последнее слово — за вами.\n\nDoes Owlo approve by itself? No. Owlo reads every line and drafts it in iiko. You approve. You have the last word.\n\nhello@owlo.work\n#owlo #iiko #бухгалтер #հաշվապահ",
+   "status": "approved",
    "cover": "w1-r3-faq-cover.jpg"
   },
   {
@@ -47,7 +47,7 @@
    "theme": "Ինչպես է աշխատում",
    "file": "w1-3-steps.jpg",
    "caption": "Երեք քայլ.\n1. Լուսանկարեք հաշիվ-ապրանքագիրը։\n2. Owlo-ն սևագիր է դնում iiko-ում։\n3. Դուք հաստատում եք iiko-ում։\nՄիացնում ենք մենք՝ hello@owlo.work\n\nТри шага: 1. Сфотографируйте накладную. 2. Owlo создаёт черновик в iiko. 3. Вы подтверждаете в iiko. Подключаем сами: hello@owlo.work\n\nThree steps: 1. Snap the invoice. 2. Owlo drafts it in iiko. 3. You approve in iiko. We set it up: hello@owlo.work\n\n#owlo #iiko #restaurant",
-   "status": "pending_approval"
+   "status": "approved"
   },
   {
    "id": "w1-r4-price",
@@ -56,7 +56,7 @@
    "theme": "Ֆուդքոսթի խորհուրդ",
    "file": "w1-r4-price.mp4",
    "caption": "Մատակարարը գինը բարձրացրե՞լ է։\nOwlo-ն համեմատում է նախորդ հաշիվ-ապրանքագրի հետ։ Գինը տարբեր է՝ նշում է տողը։ Դուք որոշում եք։\n\nПоставщик поднял цену? Owlo сравнивает с прошлой накладной. Цена другая — отмечает строку. Решаете вы.\n\nSupplier raised the price? Owlo compares it with the last invoice. If the price changed, it flags the line. You decide.\n\nhello@owlo.work\n#owlo #фудкост #ֆուդքոսթ #foodcost",
-   "status": "pending_approval",
+   "status": "approved",
    "cover": "w1-r4-price-cover.jpg"
   },
   {
@@ -66,7 +66,7 @@
    "theme": "Սեփականատեր vs հաշվապահ",
    "file": "w1-4-who.jpg",
    "caption": "Ով ինչ է ստանում։\nՍեփականատերը՝ ճիշտ ֆուդքոսթ և վերահսկողություն։ Հաշվապահը՝ քիչ ձեռքի աշխատանք և պատրաստ սևագիր iiko-ում։ Owlo-ն հաշվապահի օգնականն է, ոչ թե փոխարինողը։\n\nКто что получает. Владелец — верный фудкост и контроль. Бухгалтер — меньше ручной работы и готовый черновик в iiko. Owlo — помощник бухгалтера, а не замена.\n\nWho gets what. Owner: accurate food cost and control. Accountant: less manual work and a ready draft in iiko. Owlo is the accountant's helper, not a replacement.\n\nhello@owlo.work\n#owlo #iiko #restaurant",
-   "status": "pending_approval"
+   "status": "approved"
   },
   {
    "id": "w1-r2-friday",
@@ -75,7 +75,7 @@
    "theme": "Հաշվապահի կյանքը",
    "file": "w1-r2-friday.mp4",
    "caption": "Ուրբաթ, 18:00։ Թղթերը՝ Owlo-ին։ Երեկոն՝ Ձեզ։ 🦉\n\nПятница, 18:00. Бумаги — Owlo. Вечер — вам.\n\nFriday, 6 pm. Paperwork to Owlo. Evening to you.\n\nhello@owlo.work\n#owlo #бухгалтер #հաշվապահ #iiko",
-   "status": "pending_approval",
+   "status": "approved",
    "cover": "w1-r2-friday-cover.jpg"
   }
  ]
