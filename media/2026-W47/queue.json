@@ -1,41 +1,71 @@
 {
- "week": "2026-W47",
+ "week": "2026-11-13..20",
  "items": [
   {
    "id": "w0-launch",
    "type": "image",
-   "slot": "now",
+   "slot": "2026-11-13T13:15+04:00",
    "theme": "Launch",
    "file": "w0-launch.jpg",
    "caption": "Owlo-ն արդեն աշխատում է։ 🦉\nԼուսանկարեք հաշիվ-ապրանքագիրը։ Owlo-ն կկարդա ամեն տողը և սևագիր կդնի iiko-ում։ Կասկածելի տողը կնշի, որ Դուք նայեք։ Վերջին խոսքը Ձերն է։\nԱռաջին հաճախորդը՝ Երևանի 6 ռեստորանից բաղկացած խումբ։\nԱռաջին ամիսը՝ անվճար։ Միացնում ենք մենք՝ hello@owlo.work\n\nOwlo уже работает. Сфотографируйте накладную — Owlo прочитает каждую строку и создаст черновик в iiko. Подозрительную строку отметит. Последнее слово — за вами. Первый клиент — группа из 6 ресторанов в Ереване. Первый месяц бесплатно: hello@owlo.work\n\nOwlo is live. Snap the invoice — Owlo reads every line and drafts it in iiko. It flags the odd line. You have the last word. First client: a 6-restaurant group in Yerevan. First month free: hello@owlo.work\n\n#owlo #iiko #ֆուդքոսթ #фудкост #restaurant",
-   "status": "pending_approval"
-  },
-  {
-   "id": "w1-2-wrongline",
-   "type": "image",
-   "slot": "2026-11-17T11:00+04:00",
-   "theme": "Մեկ սխալ տող",
-   "file": "w1-2-wrongline.jpg",
-   "caption": "Մեկ սխալ տողը փչացնում է ֆուդքոսթը։\nՕրինակ՝ կարագի գինը 4 850-ի փոխարեն մուտքագրվել է 48 500։ Owlo-ն նշում է այդ տողը, որ Դուք նայեք։\n\nОдна неверная строка портит фудкост. Пример: вместо 4 850 за масло внесли 48 500. Owlo отмечает такую строку.\n\nOne wrong line ruins your food cost. Owlo flags it so you can check.\n\n#owlo #ֆուդքոսթ #фудкост #iiko",
-   "status": "pending_approval"
+   "status": "published",
+   "media_id": "17981629601914724"
   },
   {
    "id": "w1-r1-checked",
    "type": "reel",
-   "slot": "2026-11-18T19:00+04:00",
-   "theme": "Մեկ սխալ տող",
+   "slot": "2026-11-14T19:00+04:00",
+   "theme": "Ինչպես է աշխատում",
    "file": "w1-r1-checked.mp4",
-   "cover": "w1-r1-checked-cover.jpg",
-   "caption": "Owlo-ն կարդում է ամեն տողը։ Կասկածելի տողը նշում է նարնջագույնով, որ Դուք նայեք։\n\nOwlo читает каждую строку. Подозрительную отмечает оранжевым — проверьте её.\n\nOwlo reads every line and flags the odd one for you to check.\n\n#owlo #iiko #накладные #restaurant",
+   "caption": "Owlo-ն կարդում է ամեն տողը։ Կասկածելի տողը նշում է նարնջագույնով, որ Դուք նայեք։ 🦉\n\nOwlo читает каждую строку. Подозрительную отмечает оранжевым — чтобы вы проверили.\n\nOwlo reads every line. It flags the odd one in orange, so you can check it.\n\nhello@owlo.work\n#owlo #iiko #накладные #restaurant",
+   "status": "pending_approval",
+   "cover": "w1-r1-checked-cover.jpg"
+  },
+  {
+   "id": "w1-2-wrongline",
+   "type": "image",
+   "slot": "2026-11-15T11:00+04:00",
+   "theme": "Մեկ սխալ տող",
+   "file": "w1-2-wrongline.jpg",
+   "caption": "Մեկ սխալ տողը փչացնում է ֆուդքոսթը։\nՕրինակ՝ կարագի գինը 4 850-ի փոխարեն մուտքագրվել է 48 500։ Owlo-ն նշում է այդ տողը, որ Դուք նայեք։\n\nОдна неверная строка портит фудкост. Пример: вместо 4 850 за масло внесли 48 500. Owlo отмечает такую строку, чтобы вы проверили.\n\nOne wrong line ruins your food cost. Example: butter entered at 48 500 instead of 4 850. Owlo flags that line so you can check it.\n\nhello@owlo.work\n#owlo #ֆուդքոսթ #фудкост #foodcost #iiko",
    "status": "pending_approval"
+  },
+  {
+   "id": "w1-r3-faq",
+   "type": "reel",
+   "slot": "2026-11-16T19:00+04:00",
+   "theme": "FAQ / վստահություն",
+   "file": "w1-r3-faq.mp4",
+   "caption": "Owlo-ն ինքը՞ է հաստատում։ Ոչ։\nOwlo-ն կարդում է ամեն տողը և սևագիր է դնում iiko-ում։ Հաստատում եք Դուք։ Վերջին խոսքը Ձերն է։\n\nOwlo сам проводит накладную? Нет. Owlo читает каждую строку и создаёт черновик в iiko. Подтверждаете вы. Последнее слово — за вами.\n\nDoes Owlo approve by itself? No. Owlo reads every line and drafts it in iiko. You approve. You have the last word.\n\nhello@owlo.work\n#owlo #iiko #бухгалтер #հաշվապահ",
+   "status": "pending_approval",
+   "cover": "w1-r3-faq-cover.jpg"
   },
   {
    "id": "w1-3-steps",
    "type": "image",
-   "slot": "2026-11-19T11:00+04:00",
+   "slot": "2026-11-17T11:00+04:00",
    "theme": "Ինչպես է աշխատում",
    "file": "w1-3-steps.jpg",
-   "caption": "Երեք քայլ.\n1. Լուսանկարեք հաշիվ-ապրանքագիրը։\n2. Owlo-ն սևագիր է դնում iiko-ում։\n3. Դուք հաստատում եք iiko-ում։\nՄիացնում ենք մենք՝ hello@owlo.work\n\nТри шага: фото → черновик в iiko → вы подтверждаете. Подключаем сами: hello@owlo.work\n\nThree steps: snap → draft in iiko → you approve. We set it up: hello@owlo.work\n\n#owlo #iiko #restaurant",
+   "caption": "Երեք քայլ.\n1. Լուսանկարեք հաշիվ-ապրանքագիրը։\n2. Owlo-ն սևագիր է դնում iiko-ում։\n3. Դուք հաստատում եք iiko-ում։\nՄիացնում ենք մենք՝ hello@owlo.work\n\nТри шага: 1. Сфотографируйте накладную. 2. Owlo создаёт черновик в iiko. 3. Вы подтверждаете в iiko. Подключаем сами: hello@owlo.work\n\nThree steps: 1. Snap the invoice. 2. Owlo drafts it in iiko. 3. You approve in iiko. We set it up: hello@owlo.work\n\n#owlo #iiko #restaurant",
+   "status": "pending_approval"
+  },
+  {
+   "id": "w1-r4-price",
+   "type": "reel",
+   "slot": "2026-11-18T19:00+04:00",
+   "theme": "Ֆուդքոսթի խորհուրդ",
+   "file": "w1-r4-price.mp4",
+   "caption": "Մատակարարը գինը բարձրացրե՞լ է։\nOwlo-ն համեմատում է նախորդ հաշիվ-ապրանքագրի հետ։ Գինը տարբեր է՝ նշում է տողը։ Դուք որոշում եք։\n\nПоставщик поднял цену? Owlo сравнивает с прошлой накладной. Цена другая — отмечает строку. Решаете вы.\n\nSupplier raised the price? Owlo compares it with the last invoice. If the price changed, it flags the line. You decide.\n\nhello@owlo.work\n#owlo #фудкост #ֆուդքոսթ #foodcost",
+   "status": "pending_approval",
+   "cover": "w1-r4-price-cover.jpg"
+  },
+  {
+   "id": "w1-4-who",
+   "type": "image",
+   "slot": "2026-11-19T11:00+04:00",
+   "theme": "Սեփականատեր vs հաշվապահ",
+   "file": "w1-4-who.jpg",
+   "caption": "Ով ինչ է ստանում։\nՍեփականատերը՝ ճիշտ ֆուդքոսթ և վերահսկողություն։ Հաշվապահը՝ քիչ ձեռքի աշխատանք և պատրաստ սևագիր iiko-ում։ Owlo-ն հաշվապահի օգնականն է, ոչ թե փոխարինողը։\n\nКто что получает. Владелец — верный фудкост и контроль. Бухгалтер — меньше ручной работы и готовый черновик в iiko. Owlo — помощник бухгалтера, а не замена.\n\nWho gets what. Owner: accurate food cost and control. Accountant: less manual work and a ready draft in iiko. Owlo is the accountant's helper, not a replacement.\n\nhello@owlo.work\n#owlo #iiko #restaurant",
    "status": "pending_approval"
   },
   {
@@ -44,9 +74,9 @@
    "slot": "2026-11-20T19:00+04:00",
    "theme": "Հաշվապահի կյանքը",
    "file": "w1-r2-friday.mp4",
-   "cover": "w1-r2-friday-cover.jpg",
-   "caption": "Ուրբաթ, 18:00։ Թղթերը՝ Owlo-ին։ Երեկոն՝ Ձեզ։ 🦉\n\nПятница, 18:00. Бумаги — Owlo. Вечер — вам.\n\nFriday, 6 pm. Paperwork to Owlo. Evening to you.\n\n#owlo #бухгалтер #հաշվապահ #iiko",
-   "status": "pending_approval"
+   "caption": "Ուրբաթ, 18:00։ Թղթերը՝ Owlo-ին։ Երեկոն՝ Ձեզ։ 🦉\n\nПятница, 18:00. Бумаги — Owlo. Вечер — вам.\n\nFriday, 6 pm. Paperwork to Owlo. Evening to you.\n\nhello@owlo.work\n#owlo #бухгалтер #հաշվապահ #iiko",
+   "status": "pending_approval",
+   "cover": "w1-r2-friday-cover.jpg"
   }
  ]
 }
