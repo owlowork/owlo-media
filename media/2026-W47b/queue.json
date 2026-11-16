@@ -1,106 +1,106 @@
 {
-  "week": "2026-11-14..20",
-  "items": [
-    {
-      "id": "w2-r1-learn",
-      "type": "reel",
-      "slot": "2026-11-14T19:00+04:00",
-      "theme": "Ինչպես է աշխատում",
-      "file": "w2-r1-learn.mp4",
-      "caption": "Owlo-ն սովորում է։ 🦉\nԵթե ապրանքը iiko-ում չի գտնում, հարցնում է։ Դուք ընտրում եք մեկ անգամ։ Հաջորդ անգամ Owlo-ն ինքը կանի այդպես։\n\nOwlo учится. Если не находит товар в iiko — спрашивает. Вы выбираете один раз, дальше Owlo делает так же.\n\nOwlo learns. If it can't find an item in iiko, it asks. You pick once — next time Owlo does it the same way.\n\nhello@owlo.work\n#owlo #iiko #накладные #restaurant",
-      "status": "published",
-      "platforms": [
-        "instagram"
-      ],
-      "cover": "w2-r1-learn-cover.jpg",
-      "media_id": "17966519022240614",
-      "published_at": "2026-11-14T19:06+04:00",
-      "fb_note": "reels IG only"
-    },
-    {
-      "id": "w2-p1-food",
-      "type": "image",
-      "slot": "2026-11-15T11:00+04:00",
-      "theme": "Ֆուդքոսթի խորհուրդ",
-      "file": "w2-p1-food.jpg",
-      "caption": "Որտեղ է թաքնվում ֆուդքոսթի սխալը։\n1. Գին՝ մեկ զրո ավել (4 850 → 48 500)։\n2. Միավոր՝ գրամ, թե կիլոգրամ։\n3. Նոր գին՝ մատակարարը փոխել է գինը։\nOwlo-ն կարդում է ամեն տողը և նշում կասկածելին։\n\nГде прячется ошибка фудкоста: цена (лишний ноль), единица (грамм или килограмм), новая цена поставщика. Owlo читает каждую строку и отмечает подозрительную.\n\nWhere food-cost errors hide: the price (one extra zero), the unit (grams or kilos), a new supplier price. Owlo reads every line and flags the odd one.\n\nhello@owlo.work\n#owlo #ֆուդքոսթ #фудкост #foodcost",
-      "status": "published",
-      "platforms": [
-        "instagram",
-        "facebook",
-        "linkedin"
-      ],
-      "media_id": "18104748635637594",
-      "fb_post_id": "1446177121912626_122106807681542081",
-      "li_post_id": "urn:li:share:7527628042534514688",
-      "published_at": "2026-11-15T11:07:00+04:00"
-    },
-    {
-      "id": "w2-r2-file",
-      "type": "reel",
-      "slot": "2026-11-16T19:00+04:00",
-      "theme": "Ինչպես է աշխատում",
-      "file": "w2-r2-file.mp4",
-      "caption": "Լուսանկար, թե ֆայլ՝ Owlo-ն կարդում է երկուսն էլ։ Սևագիրը կլինի iiko-ում։\n\nФото или файл — Owlo читает и то, и другое. Черновик будет в iiko.\n\nPhoto or file — Owlo reads both. The draft lands in iiko.\n\nhello@owlo.work\n#owlo #iiko #накладная #restaurant",
-      "status": "approved",
-      "platforms": [
-        "instagram"
-      ],
-      "cover": "w2-r2-file-cover.jpg"
-    },
-    {
-      "id": "w2-p2-owl",
-      "type": "image",
-      "slot": "2026-11-17T11:00+04:00",
-      "theme": "Բրենդ / բու",
-      "file": "w2-p2-owl.jpg",
-      "caption": "Ինչու՞ բու։ 🦉\nՄեծ աչքեր՝ տեսնում է ամեն տողը։ Մարմինը՝ հաշիվ-ապրանքագիր։ Մատիտը՝ նշում է կասկածելին։ Փորին՝ ստուգված տողեր։ Բուն տեսնում է ամեն ինչ։\n\nПочему сова? Большие глаза видят каждую строку. Тело — накладная. Карандаш отмечает подозрительное. Сова видит всё.\n\nWhy an owl? Big eyes see every line. Its body is an invoice. The pencil flags the odd line. The owl sees everything.\n\nhello@owlo.work\n#owlo #brand #iiko",
-      "status": "approved",
-      "platforms": [
-        "instagram",
-        "facebook",
-        "linkedin"
-      ]
-    },
-    {
-      "id": "w2-r3-hand",
-      "type": "reel",
-      "slot": "2026-11-18T19:00+04:00",
-      "theme": "Հաշվապահի կյանքը",
-      "file": "w2-r3-hand.mp4",
-      "caption": "Ձեռքով՝ տող առ տող։ Owlo-ով՝ մեկ լուսանկար։ Թղթերը՝ Owlo-ին։\n\nВручную — строка за строкой. С Owlo — одно фото. Бумаги — Owlo.\n\nBy hand, line by line. With Owlo, one snap. Paperwork to Owlo.\n\nhello@owlo.work\n#owlo #бухгалтер #հաշվապահ #iiko",
-      "status": "approved",
-      "platforms": [
-        "instagram"
-      ],
-      "cover": "w2-r3-hand-cover.jpg"
-    },
-    {
-      "id": "w2-p3-colors",
-      "type": "image",
-      "slot": "2026-11-19T11:00+04:00",
-      "theme": "FAQ / վստահություն",
-      "file": "w2-p3-colors.jpg",
-      "caption": "Ինչ են նշանակում գույները Owlo-ում։\nՄոխրագույն՝ դեռ չի կարդացել։ Կանաչ՝ ստուգված է։ Նարնջագույն՝ նայեք այս տողը։ Վերջին խոսքը Ձերն է։\n\nЧто значат цвета: серый — ещё не прочитано, зелёный — проверено, оранжевый — проверьте строку. Последнее слово — за вами.\n\nWhat the colours mean: grey — not read yet, green — checked, orange — check this line. You have the last word.\n\nhello@owlo.work\n#owlo #iiko #foodcost",
-      "status": "approved",
-      "platforms": [
-        "instagram",
-        "facebook",
-        "linkedin"
-      ]
-    },
-    {
-      "id": "w2-r4-start",
-      "type": "reel",
-      "slot": "2026-11-20T19:00+04:00",
-      "theme": "Ինչպես սկսել (CTA)",
-      "file": "w2-r4-start.mp4",
-      "caption": "Ինչպես սկսել Owlo-ն։\n1. Գրեք մեզ՝ hello@owlo.work\n2. Միացնում ենք մենք Ձեր iiko-ին։\n3. Լուսանկարեք հաշիվ-ապրանքագիրը։\nՄիացումն անվճար է։ Առաջին 10 օրը՝ անվճար։\n\nКак начать: напишите нам, мы подключим ваш iiko, сфотографируйте накладную. Подключение бесплатно. Первые 10 дней — бесплатно.\n\nHow to start: write to us, we connect your iiko, snap the invoice. Free setup. First 10 days free.\n\nhello@owlo.work\n#owlo #iiko #restaurant",
-      "status": "approved",
-      "platforms": [
-        "instagram"
-      ],
-      "cover": "w2-r4-start-cover.jpg"
-    }
-  ]
+ "week": "2026-11-14..20",
+ "items": [
+  {
+   "id": "w2-r1-learn",
+   "type": "reel",
+   "slot": "2026-11-14T19:00+04:00",
+   "theme": "Ինչպես է աշխատում",
+   "file": "w2-r1-learn.mp4",
+   "caption": "Owlo-ն սովորում է։ 🦉\nԵթե ապրանքը iiko-ում չի գտնում, հարցնում է։ Դուք ընտրում եք մեկ անգամ։ Հաջորդ անգամ Owlo-ն ինքը կանի այդպես։\n\nOwlo учится. Если не находит товар в iiko — спрашивает. Вы выбираете один раз, дальше Owlo делает так же.\n\nOwlo learns. If it can't find an item in iiko, it asks. You pick once — next time Owlo does it the same way.\n\nhello@owlo.work\n#owlo #iiko #накладные #restaurant",
+   "status": "published",
+   "platforms": [
+    "instagram"
+   ],
+   "cover": "w2-r1-learn-cover.jpg",
+   "media_id": "17966519022240614",
+   "published_at": "2026-11-14T19:06+04:00",
+   "fb_note": "reels IG only"
+  },
+  {
+   "id": "w2-p1-food",
+   "type": "image",
+   "slot": "2026-11-15T11:00+04:00",
+   "theme": "Ֆուդքոսթի խորհուրդ",
+   "file": "w2-p1-food.jpg",
+   "caption": "Որտեղ է թաքնվում ֆուդքոսթի սխալը։\n1. Գին՝ մեկ զրո ավել (4 850 → 48 500)։\n2. Միավոր՝ գրամ, թե կիլոգրամ։\n3. Նոր գին՝ մատակարարը փոխել է գինը։\nOwlo-ն կարդում է ամեն տողը և նշում կասկածելին։\n\nГде прячется ошибка фудкоста: цена (лишний ноль), единица (грамм или килограмм), новая цена поставщика. Owlo читает каждую строку и отмечает подозрительную.\n\nWhere food-cost errors hide: the price (one extra zero), the unit (grams or kilos), a new supplier price. Owlo reads every line and flags the odd one.\n\nhello@owlo.work\n#owlo #ֆուդքոսթ #фудкост #foodcost",
+   "status": "published",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "linkedin"
+   ],
+   "media_id": "18104748635637594",
+   "fb_post_id": "1446177121912626_122106807681542081",
+   "li_post_id": "urn:li:share:7527628042534514688",
+   "published_at": "2026-11-15T11:07:00+04:00"
+  },
+  {
+   "id": "w2-r2-file",
+   "type": "reel",
+   "slot": "2026-11-16T19:00+04:00",
+   "theme": "Ինչպես է աշխատում",
+   "file": "w2-r2-file.mp4",
+   "caption": "Фото или файл — Owlo читает и то, и другое. Черновик будет в iiko.\n\nԼուսանկար, թե ֆայլ՝ Owlo-ն կարդում է երկուսն էլ։ Սևագիրը կլինի iiko-ում։\n\nPhoto or file — Owlo reads both. The draft lands in iiko.\n\nhello@owlo.work\n#owlo #iiko #накладная #restaurant",
+   "status": "approved",
+   "platforms": [
+    "instagram"
+   ],
+   "cover": "w2-r2-file-cover.jpg"
+  },
+  {
+   "id": "w2-p2-owl",
+   "type": "image",
+   "slot": "2026-11-17T11:00+04:00",
+   "theme": "Բրենդ / բու",
+   "file": "w2-p2-owl.jpg",
+   "caption": "Почему сова? Большие глаза видят каждую строку. Тело — накладная. Карандаш отмечает подозрительное. Сова видит всё.\n\nԻնչու՞ բու։ 🦉\nՄեծ աչքեր՝ տեսնում է ամեն տողը։ Մարմինը՝ հաշիվ-ապրանքագիր։ Մատիտը՝ նշում է կասկածելին։ Փորին՝ ստուգված տողեր։ Բուն տեսնում է ամեն ինչ։\n\nWhy an owl? Big eyes see every line. Its body is an invoice. The pencil flags the odd line. The owl sees everything.\n\nhello@owlo.work\n#owlo #brand #iiko",
+   "status": "approved",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "linkedin"
+   ]
+  },
+  {
+   "id": "w2-r3-hand",
+   "type": "reel",
+   "slot": "2026-11-18T19:00+04:00",
+   "theme": "Հաշվապահի կյանքը",
+   "file": "w2-r3-hand.mp4",
+   "caption": "Вручную — строка за строкой. С Owlo — одно фото. Бумаги — Owlo.\n\nՁեռքով՝ տող առ տող։ Owlo-ով՝ մեկ լուսանկար։ Թղթերը՝ Owlo-ին։\n\nBy hand, line by line. With Owlo, one snap. Paperwork to Owlo.\n\nhello@owlo.work\n#owlo #бухгалтер #հաշվապահ #iiko",
+   "status": "approved",
+   "platforms": [
+    "instagram"
+   ],
+   "cover": "w2-r3-hand-cover.jpg"
+  },
+  {
+   "id": "w2-p3-colors",
+   "type": "image",
+   "slot": "2026-11-19T11:00+04:00",
+   "theme": "FAQ / վստահություն",
+   "file": "w2-p3-colors.jpg",
+   "caption": "Что значат цвета: серый — ещё не прочитано, зелёный — проверено, оранжевый — проверьте строку. Последнее слово — за вами.\n\nԻնչ են նշանակում գույները Owlo-ում։\nՄոխրագույն՝ դեռ չի կարդացել։ Կանաչ՝ ստուգված է։ Նարնջագույն՝ նայեք այս տողը։ Վերջին խոսքը Ձերն է։\n\nWhat the colours mean: grey — not read yet, green — checked, orange — check this line. You have the last word.\n\nhello@owlo.work\n#owlo #iiko #foodcost",
+   "status": "approved",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "linkedin"
+   ]
+  },
+  {
+   "id": "w2-r4-start",
+   "type": "reel",
+   "slot": "2026-11-20T19:00+04:00",
+   "theme": "Ինչպես սկսել (CTA)",
+   "file": "w2-r4-start.mp4",
+   "caption": "Как начать: напишите нам, мы подключим ваш iiko, сфотографируйте накладную. Подключение бесплатно. Первые 10 дней — бесплатно.\n\nԻնչպես սկսել Owlo-ն։\n1. Գրեք մեզ՝ hello@owlo.work\n2. Միացնում ենք մենք Ձեր iiko-ին։\n3. Լուսանկարեք հաշիվ-ապրանքագիրը։\nՄիացումն անվճար է։ Առաջին 10 օրը՝ անվճար։\n\nHow to start: write to us, we connect your iiko, snap the invoice. Free setup. First 10 days free.\n\nhello@owlo.work\n#owlo #iiko #restaurant",
+   "status": "approved",
+   "platforms": [
+    "instagram"
+   ],
+   "cover": "w2-r4-start-cover.jpg"
+  }
+ ]
 }
