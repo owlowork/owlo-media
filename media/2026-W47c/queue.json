@@ -20,16 +20,18 @@
   {
    "id": "w3-r1-hero",
    "type": "reel",
-   "slot": "2026-11-22T19:00+04:00",
+   "slot": "2026-11-19T19:00+04:00",
    "theme": "Ինչպես է աշխատում",
    "file": "w3-r1-hero.mp4",
    "cover": "w3-r1-hero-cover.jpg",
    "caption": "Накладные вводят в iiko вручную. Это долго — и легко ошибиться. 🦉\nЗнакомьтесь: Owlo. Сфотографируйте накладную — Owlo прочитает каждую строку, покажет, что проверить, и создаст черновик в iiko. Последнее слово — за вами.\nРаботает с iiko. Первые 10 дней — бесплатно.\n\nՀաշիվ-ապրանքագրերը iiko-ում մուտքագրում են ձեռքով։ Դա երկար է, և հեշտ է սխալվել։ 🦉\nԾանոթացեք՝ Owlo։ Լուսանկարեք հաշիվ-ապրանքագիրը. Owlo-ն կկարդա ամեն տողը, ցույց կտա՝ ինչ ստուգել, և սևագիրը կստեղծի iiko-ում։ Վերջին խոսքը՝ Ձերն է։\nԱշխատում է iiko-ի հետ։ Առաջին 10 օրը՝ անվճար։\n\nInvoices are typed into iiko by hand. It's slow — and easy to get wrong. Meet Owlo: snap a photo of the invoice, Owlo reads every line, shows what to check and creates a draft in iiko. The last word is yours. Works with iiko. First 10 days free.\n\nhello@owlo.work\n#owlo #iiko #накладные #ресторан #restaurant",
-   "status": "pending_approval",
+   "status": "approved",
    "platforms": [
     "instagram"
    ],
-   "note": "Higgsfield 3D, 25 s, voice — approved exception by Arsen 16.11"
+   "note": "Higgsfield 3D, 25 s, voice — approved exception by Arsen 16.11",
+   "approved_at": "2026-11-16",
+   "approved_unchanged": true
   }
  ]
 }
