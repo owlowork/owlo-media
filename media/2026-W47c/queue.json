@@ -8,14 +8,15 @@
    "theme": "Մեկ սխալ տող",
    "file": "w3-p1-twice.jpg",
    "caption": "Одна и та же накладная — дважды. Так бывает: поставщик привёз копию или два человека сфотографировали один документ. Накладная, внесённая дважды, — это неверный фудкост. Owlo замечает повтор и отмечает его оранжевым, чтобы вы проверили. Последнее слово — за вами.\n\nՆույն հաշիվ-ապրանքագիրը՝ երկու անգամ։ 🦉\nՊատահում է. մատակարարը բերում է պատճենը, կամ երկու հոգի լուսանկարում են նույն թուղթը։ Երկու անգամ մուտքագրված հաշիվ-ապրանքագիրը նշանակում է սխալ ֆուդքոսթ։\nOwlo-ն նկատում է կրկնությունը և նշում է այն նարնջագույնով, որ Դուք նայեք։ Վերջին խոսքը Ձերն է։\n\nThe same invoice, twice. It happens: the supplier brings a copy, or two people snap the same paper. An invoice entered twice means a wrong food cost. Owlo spots the repeat and flags it in orange, so you can check. You have the last word.\n\nhello@owlo.work\n#owlo #iiko #ֆուդքոսթ #фудкост #restaurant",
-   "status": "approved",
+   "status": "on_hold",
    "platforms": [
     "instagram",
     "facebook",
     "linkedin"
    ],
    "approved_at": "2026-11-14",
-   "caption_li": "The same invoice, twice. It happens: the supplier brings a copy, or two people snap the same paper. An invoice entered twice means a wrong food cost. Owlo spots the repeat and flags it in orange, so you can check. You have the last word.\n\nՆույն հաշիվ-ապրանքագիրը՝ երկու անգամ։ 🦉\nՊատահում է. մատակարարը բերում է պատճենը, կամ երկու հոգի լուսանկարում են նույն թուղթը։ Երկու անգամ մուտքագրված հաշիվ-ապրանքագիրը նշանակում է սխալ ֆուդքոսթ։\nOwlo-ն նկատում է կրկնությունը և նշում է այն նարնջագույնով, որ Դուք նայեք։ Վերջին խոսքը Ձերն է։\n\nОдна и та же накладная — дважды. Так бывает: поставщик привёз копию или два человека сфотографировали один документ. Накладная, внесённая дважды, — это неверный фудкост. Owlo замечает повтор и отмечает его оранжевым, чтобы вы проверили. Последнее слово — за вами.\n\nhello@owlo.work\n#owlo #iiko #ֆուդքոսթ #фудкост #restaurant"
+   "caption_li": "The same invoice, twice. It happens: the supplier brings a copy, or two people snap the same paper. An invoice entered twice means a wrong food cost. Owlo spots the repeat and flags it in orange, so you can check. You have the last word.\n\nՆույն հաշիվ-ապրանքագիրը՝ երկու անգամ։ 🦉\nՊատահում է. մատակարարը բերում է պատճենը, կամ երկու հոգի լուսանկարում են նույն թուղթը։ Երկու անգամ մուտքագրված հաշիվ-ապրանքագիրը նշանակում է սխալ ֆուդքոսթ։\nOwlo-ն նկատում է կրկնությունը և նշում է այն նարնջագույնով, որ Դուք նայեք։ Վերջին խոսքը Ձերն է։\n\nОдна и та же накладная — дважды. Так бывает: поставщик привёз копию или два человека сфотографировали один документ. Накладная, внесённая дважды, — это неверный фудкост. Owlo замечает повтор и отмечает его оранжевым, чтобы вы проверили. Последнее слово — за вами.\n\nhello@owlo.work\n#owlo #iiko #ֆուդքոսթ #фудкост #restaurant",
+   "status_before_hold": "approved"
   },
   {
    "id": "w3-r1-hero",
@@ -25,13 +26,14 @@
    "file": "w3-r1-hero.mp4",
    "cover": "w3-r1-hero-cover.jpg",
    "caption": "Накладные вводят в iiko вручную. Это долго — и легко ошибиться. 🦉\nЗнакомьтесь: Owlo. Сфотографируйте накладную — Owlo прочитает каждую строку, покажет, что проверить, и создаст черновик в iiko. Последнее слово — за вами.\nРаботает с iiko. Первые 10 дней — бесплатно.\n\nՀաշիվ-ապրանքագրերը iiko-ում մուտքագրում են ձեռքով։ Դա երկար է, և հեշտ է սխալվել։ 🦉\nԾանոթացեք՝ Owlo։ Լուսանկարեք հաշիվ-ապրանքագիրը. Owlo-ն կկարդա ամեն տողը, ցույց կտա՝ ինչ ստուգել, և սևագիրը կստեղծի iiko-ում։ Վերջին խոսքը՝ Ձերն է։\nԱշխատում է iiko-ի հետ։ Առաջին 10 օրը՝ անվճար։\n\nInvoices are typed into iiko by hand. It's slow — and easy to get wrong. Meet Owlo: snap a photo of the invoice, Owlo reads every line, shows what to check and creates a draft in iiko. The last word is yours. Works with iiko. First 10 days free.\n\nhello@owlo.work\n#owlo #iiko #накладные #ресторан #restaurant",
-   "status": "approved",
+   "status": "on_hold",
    "platforms": [
     "instagram"
    ],
    "note": "Higgsfield 3D, 25 s, voice — approved exception by Arsen 16.11",
    "approved_at": "2026-11-16",
-   "approved_unchanged": true
+   "approved_unchanged": true,
+   "status_before_hold": "approved"
   }
  ]
 }
