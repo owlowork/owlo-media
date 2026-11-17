@@ -14,9 +14,6 @@
    "file": "r1-launch-ru.jpg",
    "file_li": "r1-launch-en.jpg",
    "platforms": [
-    "instagram",
-    "facebook",
-    "telegram",
     "linkedin"
    ],
    "caption_ig": "Накладные вводят в iiko вручную. Строка за строкой. Часами. 🦉\nOwlo делает это по фото: сфотографируйте накладную или загрузите PDF / Excel — Owlo прочитает каждую строку и создаст черновик в iiko. Вам остаётся проверить.\n\nОт бумаг к контролю. Каждая строка проверена.\n\nРаботает с iiko · первые 10 дней — бесплатно · подключение бесплатно\n👉 owlo.work/?utm_source=instagram\n#owlo #iiko #накладные #ресторан #фудкост",
@@ -46,13 +43,10 @@
   {
    "id": "r2-prices",
    "type": "image",
-   "slot": "2026-11-21T11:00+04:00",
+   "slot": "2026-11-20T11:00+04:00",
    "file": "r2-prices-ru.jpg",
    "file_li": "r2-prices-en.jpg",
    "platforms": [
-    "instagram",
-    "facebook",
-    "telegram",
     "linkedin"
    ],
    "caption_ig": "Цены Owlo — без сюрпризов. 🦉\n\nStart — 23 000 ֏/мес: фото, PDF, Excel → черновик в iiko, отметки дублей и неверных строк, список подорожавших товаров. До 300 документов в месяц.\nPro — 34 000 ֏/мес: всё из Start + сводка изменения цен по поставщикам (%, сумма) + списания и перемещения.\nBusiness — 59 000 ֏/мес: всё из Pro + закрытие месяца: сверка с налоговым списком и корректировочные накладные.\n\nДля Pro и Business: до 600 документов +20 000 ֏, до 800 — +30 000 ֏, больше 800 — индивидуально.\nКаждый следующий ресторан +10 000 ֏.\nЗа год — 12 месяцев по цене 10: Start 230 000 ֏, Pro 340 000 ֏, Business 590 000 ֏.\nЦены окончательные, НДС не взимается.\n\nПервые 10 дней — бесплатно, подключение бесплатно.\n👉 owlo.work/?utm_source=instagram\n#owlo #iiko #ресторан #накладные",
@@ -66,13 +60,10 @@
   {
    "id": "r3-how",
    "type": "image",
-   "slot": "2026-11-24T11:00+04:00",
+   "slot": "2026-11-20T15:00+04:00",
    "file": "r3-how-ru.jpg",
    "file_li": "r3-how-en.jpg",
    "platforms": [
-    "instagram",
-    "facebook",
-    "telegram",
     "linkedin"
    ],
    "caption_ig": "Как работает Owlo — 3 шага:\n\n1️⃣ Сфотографируйте накладную или загрузите PDF / Excel. Можно сразу много.\n2️⃣ Owlo читает каждую строку и находит товар в вашем iiko. Что стоит проверить — отмечает оранжевым.\n3️⃣ Черновик уже в iiko. Вы проверяете и проводите. Последнее слово — за вами.\n\nРаботает с iiko · первые 10 дней — бесплатно\n👉 owlo.work/?utm_source=instagram\n#owlo #iiko #накладные #бухгалтер",
@@ -86,13 +77,10 @@
   {
    "id": "r4-dearer",
    "type": "image",
-   "slot": "2026-11-26T11:00+04:00",
+   "slot": "2026-11-20T19:00+04:00",
    "file": "r4-dearer-ru.jpg",
    "file_li": "r4-dearer-en.jpg",
    "platforms": [
-    "instagram",
-    "facebook",
-    "telegram",
     "linkedin"
    ],
    "caption_ig": "Что подорожало в этом месяце? 🦉\n\nНовое в пакете Start: Owlo собирает простой список товаров, которые подорожали, — прямо из ваших накладных. Без таблиц и ручных сравнений. (На картинке — пример.)\nНужна подробная сводка по поставщикам (%, сумма)? Она в пакете Pro.\n\nStart — 23 000 ֏ в месяц · первые 10 дней — бесплатно\n👉 owlo.work/?utm_source=instagram\n#owlo #фудкост #iiko #ресторан",
@@ -102,6 +90,91 @@
    "status": "approved",
    "approved_at": "2026-11-17",
    "approved_unchanged": true
+  },
+  {
+   "id": "n5-hours",
+   "type": "image",
+   "slot": "2026-11-18T11:00+04:00",
+   "file": "n5-hours-ru.jpg",
+   "file_li": "n5-hours-en.jpg",
+   "platforms": [
+    "linkedin"
+   ],
+   "caption_ig": "Сколько часов в месяц уходит на накладные? ⏱\nПример: 30 накладных в день × 3 минуты вручную = около 45 часов в месяц на одного бухгалтера.\n\nС Owlo: сфотографируйте накладную — черновик уже в iiko. Бухгалтеру остаётся проверить.\n\nРаботает с iiko · первые 10 дней — бесплатно · подключение бесплатно\n👉 owlo.work/?utm_source=instagram\n#owlo #iiko #накладные #ресторан #бухгалтер",
+   "caption_fb": "Сколько часов в месяц уходит на накладные? ⏱\nПример: 30 накладных в день × 3 минуты вручную = около 45 часов в месяц на одного бухгалтера.\n\nС Owlo: сфотографируйте накладную — черновик уже в iiko. Бухгалтеру остаётся проверить.\n\nРаботает с iiko · первые 10 дней — бесплатно · подключение бесплатно\n👉 owlo.work/?utm_source=facebook\n#owlo #iiko #накладные #ресторан #бухгалтер",
+   "caption_tg": "Сколько часов в месяц уходит на накладные? ⏱\nПример: 30 накладных в день × 3 минуты вручную = около 45 часов в месяц на одного бухгалтера.\n\nС Owlo: сфотографируйте накладную — черновик уже в iiko. Бухгалтеру остаётся проверить.\n\nРаботает с iiko · первые 10 дней — бесплатно · подключение бесплатно\n👉 owlo.work/?utm_source=telegram\n#owlo #iiko #накладные #ресторан #бухгалтер",
+   "caption_li": "How many hours go into supplier invoices every month?\nExample: 30 invoices a day × 3 minutes by hand = about 45 hours a month for one accountant.\n\nWith Owlo: snap the invoice — the draft is already in iiko. Your accountant only checks it.\n\nWorks with iiko · first 10 days free · free setup\n👉 owlo.work/?utm_source=linkedin\n#restaurants #hospitality #iiko #accounting",
+   "status": "approved",
+   "approved_at": "2026-11-18",
+   "approved_note": "Arsen 18.11: 9 posts now on IG+FB, LI+TG 3/day over 3 days"
+  },
+  {
+   "id": "n6-flags",
+   "type": "image",
+   "slot": "2026-11-18T15:00+04:00",
+   "file": "n6-flags-ru.jpg",
+   "file_li": "n6-flags-en.jpg",
+   "platforms": [
+    "linkedin"
+   ],
+   "caption_ig": "Оранжевым — то, что стоит проверить 🟠\nOwlo читает каждую строку накладной и сразу отмечает:\n• дубль накладной, которая уже есть в iiko\n• цену выше обычной\n• неверную единицу: шт вместо кг или л\n\nКаждая строка проверена. Последнее слово — за вами.\n\nРаботает с iiko · первые 10 дней — бесплатно\n👉 owlo.work/?utm_source=instagram\n#owlo #iiko #накладные #фудкост",
+   "caption_fb": "Оранжевым — то, что стоит проверить 🟠\nOwlo читает каждую строку накладной и сразу отмечает:\n• дубль накладной, которая уже есть в iiko\n• цену выше обычной\n• неверную единицу: шт вместо кг или л\n\nКаждая строка проверена. Последнее слово — за вами.\n\nРаботает с iiko · первые 10 дней — бесплатно\n👉 owlo.work/?utm_source=facebook\n#owlo #iiko #накладные #фудкост",
+   "caption_tg": "Оранжевым — то, что стоит проверить 🟠\nOwlo читает каждую строку накладной и сразу отмечает:\n• дубль накладной, которая уже есть в iiko\n• цену выше обычной\n• неверную единицу: шт вместо кг или л\n\nКаждая строка проверена. Последнее слово — за вами.\n\nРаботает с iiko · первые 10 дней — бесплатно\n👉 owlo.work/?utm_source=telegram\n#owlo #iiko #накладные #фудкост",
+   "caption_li": "Orange means worth a check.\nOwlo reads every invoice line and flags right away:\n• a duplicate invoice already in iiko\n• a price higher than usual\n• a wrong unit: pcs instead of kg or l\n\nEvery line, checked. You have the last word.\n\nWorks with iiko · first 10 days free\n👉 owlo.work/?utm_source=linkedin\n#restaurants #foodcost #iiko #AI",
+   "status": "approved",
+   "approved_at": "2026-11-18",
+   "approved_note": "Arsen 18.11: 9 posts now on IG+FB, LI+TG 3/day over 3 days"
+  },
+  {
+   "id": "n7-close",
+   "type": "image",
+   "slot": "2026-11-18T19:00+04:00",
+   "file": "n7-close-ru.jpg",
+   "file_li": "n7-close-en.jpg",
+   "platforms": [
+    "linkedin"
+   ],
+   "caption_ig": "Закрытие месяца без сюрпризов 📋\nВ пакете Business Owlo сверяет счета из налогового списка с документами в iiko и показывает, чего не хватает. Корректировочные счета тоже проверяет.\n\nBusiness — 59 000 ֏ в месяц. Цены окончательные, НДС не взимается.\n\nРаботает с iiko · первые 10 дней — бесплатно\n👉 owlo.work/?utm_source=instagram\n#owlo #iiko #закрытиемесяца #бухгалтерия",
+   "caption_fb": "Закрытие месяца без сюрпризов 📋\nВ пакете Business Owlo сверяет счета из налогового списка с документами в iiko и показывает, чего не хватает. Корректировочные счета тоже проверяет.\n\nBusiness — 59 000 ֏ в месяц. Цены окончательные, НДС не взимается.\n\nРаботает с iiko · первые 10 дней — бесплатно\n👉 owlo.work/?utm_source=facebook\n#owlo #iiko #закрытиемесяца #бухгалтерия",
+   "caption_tg": "Закрытие месяца без сюрпризов 📋\nВ пакете Business Owlo сверяет счета из налогового списка с документами в iiko и показывает, чего не хватает. Корректировочные счета тоже проверяет.\n\nBusiness — 59 000 ֏ в месяц. Цены окончательные, НДС не взимается.\n\nРаботает с iiko · первые 10 дней — бесплатно\n👉 owlo.work/?utm_source=telegram\n#owlo #iiko #закрытиемесяца #бухгалтерия",
+   "caption_li": "Month-end close, no surprises.\nIn the Business plan, Owlo matches the invoices on the tax-service list with the documents in iiko and shows what is missing. It checks correcting invoices too.\n\nBusiness — 59,000 ֏ per month. Final prices, no VAT charged.\n\nWorks with iiko · first 10 days free\n👉 owlo.work/?utm_source=linkedin\n#restaurants #accounting #iiko #finance",
+   "status": "approved",
+   "approved_at": "2026-11-18",
+   "approved_note": "Arsen 18.11: 9 posts now on IG+FB, LI+TG 3/day over 3 days"
+  },
+  {
+   "id": "n8-control",
+   "type": "image",
+   "slot": "2026-11-19T15:00+04:00",
+   "file": "n8-control-ru.jpg",
+   "file_li": "n8-control-en.jpg",
+   "platforms": [
+    "linkedin"
+   ],
+   "caption_ig": "Последнее слово — за вами ✅\n1. Owlo создаёт только черновик в iiko.\n2. Бухгалтер проверяет.\n3. И проводит документ сам.\n\nOwlo никогда не проводит документы сам. Пароль iiko хранится в зашифрованном виде.\n\nРаботает с iiko · первые 10 дней — бесплатно\n👉 owlo.work/?utm_source=instagram\n#owlo #iiko #накладные #контроль",
+   "caption_fb": "Последнее слово — за вами ✅\n1. Owlo создаёт только черновик в iiko.\n2. Бухгалтер проверяет.\n3. И проводит документ сам.\n\nOwlo никогда не проводит документы сам. Пароль iiko хранится в зашифрованном виде.\n\nРаботает с iiko · первые 10 дней — бесплатно\n👉 owlo.work/?utm_source=facebook\n#owlo #iiko #накладные #контроль",
+   "caption_tg": "Последнее слово — за вами ✅\n1. Owlo создаёт только черновик в iiko.\n2. Бухгалтер проверяет.\n3. И проводит документ сам.\n\nOwlo никогда не проводит документы сам. Пароль iiko хранится в зашифрованном виде.\n\nРаботает с iiko · первые 10 дней — бесплатно\n👉 owlo.work/?utm_source=telegram\n#owlo #iiko #накладные #контроль",
+   "caption_li": "You have the last word.\n1. Owlo only creates a draft in iiko.\n2. Your accountant checks it.\n3. And posts it themselves.\n\nOwlo never posts a document by itself. Your iiko password is stored encrypted.\n\nWorks with iiko · first 10 days free\n👉 owlo.work/?utm_source=linkedin\n#restaurants #hospitality #iiko #control",
+   "status": "approved",
+   "approved_at": "2026-11-18",
+   "approved_note": "Arsen 18.11: 9 posts now on IG+FB, LI+TG 3/day over 3 days"
+  },
+  {
+   "id": "n9-pro",
+   "type": "image",
+   "slot": "2026-11-19T19:00+04:00",
+   "file": "n9-pro-ru.jpg",
+   "file_li": "n9-pro-en.jpg",
+   "platforms": [
+    "linkedin"
+   ],
+   "caption_ig": "Списания и перемещения — тоже по фото 📸\nВ пакете Pro:\n• акт списания → черновик в iiko\n• перемещение между складами → черновик в iiko\n• сводка цен по поставщикам: %, сумма\n\nPro — 34 000 ֏ в месяц. Цены окончательные, НДС не взимается.\n\nРаботает с iiko · первые 10 дней — бесплатно\n👉 owlo.work/?utm_source=instagram\n#owlo #iiko #списания #ресторан",
+   "caption_fb": "Списания и перемещения — тоже по фото 📸\nВ пакете Pro:\n• акт списания → черновик в iiko\n• перемещение между складами → черновик в iiko\n• сводка цен по поставщикам: %, сумма\n\nPro — 34 000 ֏ в месяц. Цены окончательные, НДС не взимается.\n\nРаботает с iiko · первые 10 дней — бесплатно\n👉 owlo.work/?utm_source=facebook\n#owlo #iiko #списания #ресторан",
+   "caption_tg": "Списания и перемещения — тоже по фото 📸\nВ пакете Pro:\n• акт списания → черновик в iiko\n• перемещение между складами → черновик в iiko\n• сводка цен по поставщикам: %, сумма\n\nPro — 34 000 ֏ в месяц. Цены окончательные, НДС не взимается.\n\nРаботает с iiko · первые 10 дней — бесплатно\n👉 owlo.work/?utm_source=telegram\n#owlo #iiko #списания #ресторан",
+   "caption_li": "Write-offs and transfers — from a photo too.\nIn the Pro plan:\n• write-off act → draft in iiko\n• transfer between stores → draft in iiko\n• price summary by supplier: %, amount\n\nPro — 34,000 ֏ per month. Final prices, no VAT charged.\n\nWorks with iiko · first 10 days free\n👉 owlo.work/?utm_source=linkedin\n#restaurants #inventory #iiko #foodcost",
+   "status": "approved",
+   "approved_at": "2026-11-18",
+   "approved_note": "Arsen 18.11: 9 posts now on IG+FB, LI+TG 3/day over 3 days"
   }
  ]
 }
