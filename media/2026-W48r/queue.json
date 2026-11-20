@@ -47,7 +47,7 @@
     {
       "id": "r2-prices",
       "type": "image",
-      "slot": "2026-11-23T11:00+04:00",
+      "slot": "2026-11-27T11:00+04:00",
       "file": "r2-prices-ru.jpg",
       "file_li": "r2-prices-en.jpg",
       "platforms": [
@@ -68,7 +68,7 @@
     {
       "id": "r3-how",
       "type": "image",
-      "slot": "2026-11-24T11:00+04:00",
+      "slot": "2026-11-30T11:00+04:00",
       "file": "r3-how-ru.jpg",
       "file_li": "r3-how-en.jpg",
       "platforms": [
@@ -89,7 +89,7 @@
     {
       "id": "r4-dearer",
       "type": "image",
-      "slot": "2026-11-25T11:00+04:00",
+      "slot": "2026-12-02T11:00+04:00",
       "file": "r4-dearer-ru.jpg",
       "file_li": "r4-dearer-en.jpg",
       "platforms": [
@@ -180,7 +180,7 @@
     {
       "id": "n8-control",
       "type": "image",
-      "slot": "2026-11-21T11:00+04:00",
+      "slot": "2026-11-23T11:00+04:00",
       "file": "n8-control-ru.jpg",
       "file_li": "n8-control-en.jpg",
       "platforms": [
@@ -201,7 +201,7 @@
     {
       "id": "n9-pro",
       "type": "image",
-      "slot": "2026-11-22T11:00+04:00",
+      "slot": "2026-11-25T11:00+04:00",
       "file": "n9-pro-ru.jpg",
       "file_li": "n9-pro-en.jpg",
       "platforms": [
