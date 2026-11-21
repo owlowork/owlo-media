@@ -207,21 +207,22 @@
       "type": "image",
       "slot": "2026-11-25T11:00+04:00",
       "file": "n9-pro-ru.jpg",
-      "file_li": "n9-pro-en.jpg",
+      "file_li": "n9-pro-en-v2.jpg",
       "platforms": [
         "linkedin"
       ],
       "caption_ig": "Списания и перемещения — тоже по фото 📸\nВ пакете Pro:\n• акт списания → черновик в iiko\n• перемещение между складами → черновик в iiko\n• сводка цен по поставщикам: %, сумма\n\nPro — 34 000 ֏ в месяц. Цены окончательные, НДС не взимается.\n\nРаботает с iiko · первые 10 дней — бесплатно\n👉 owlo.work/?utm_source=instagram\n#owlo #iiko #списания #ресторан",
       "caption_fb": "Списания и перемещения — тоже по фото 📸\nВ пакете Pro:\n• акт списания → черновик в iiko\n• перемещение между складами → черновик в iiko\n• сводка цен по поставщикам: %, сумма\n\nPro — 34 000 ֏ в месяц. Цены окончательные, НДС не взимается.\n\nРаботает с iiko · первые 10 дней — бесплатно\n👉 owlo.work/?utm_source=facebook\n#owlo #iiko #списания #ресторан",
       "caption_tg": "Списания и перемещения — тоже по фото 📸\nВ пакете Pro:\n• акт списания → черновик в iiko\n• перемещение между складами → черновик в iiko\n• сводка цен по поставщикам: %, сумма\n\nPro — 34 000 ֏ в месяц. Цены окончательные, НДС не взимается.\n\nРаботает с iiko · первые 10 дней — бесплатно\n👉 owlo.work/?utm_source=telegram\n#owlo #iiko #списания #ресторан",
-      "caption_li": "Write-offs and transfers — from a photo too.\nIn the Pro plan:\n• write-off act → draft in iiko\n• transfer between stores → draft in iiko\n• price summary by supplier: %, amount\n\nPro — 34,000 ֏ per month. Final prices, no VAT charged.\n\nWorks with iiko · first 10 days free\n👉 owlo.work/?utm_source=linkedin\n#restaurants #inventory #iiko #foodcost",
+      "caption_li": "Write-offs and transfers in iiko — fast and accurate too.\nIn the Pro plan:\n• write-off act → draft in iiko\n• transfer between stores → draft in iiko\n• price summary by supplier: %, amount\n\nPro — 34,000 ֏ per month. Final prices, no VAT charged.\n\nWorks with iiko · first 10 days free\n👉 owlo.work/?utm_source=linkedin\n#restaurants #inventory #iiko #foodcost",
       "status": "approved",
       "approved_at": "2026-11-18",
       "approved_note": "Arsen 18.11: 9 posts now on IG+FB, LI+TG 3/day over 3 days",
       "media_id": "17998506231043381",
       "fb_post_id": "1446177121912626_122109316599542081",
       "ig_fb_published_at": "2026-11-18T01:05+04:00",
-      "note": "IG+FB published 18.11 (grid batch). LinkedIn via Run B at slot. Telegram scheduled natively."
+      "note": "IG+FB published 18.11 (grid batch). LinkedIn via Run B at slot. Telegram scheduled natively.",
+      "fix_note": "21.11 Run A: headline no longer leads with \"from a photo\" (main message rule 21.11); image v2"
     }
   ]
 }
