@@ -48,7 +48,9 @@
         "threads"
       ],
       "caption_th": "12 кг или 12 шт?\n\nОдна неверная единица в накладной — и фудкост уже неверный. Среди сотни строк такое легко пропустить.\n\nOwlo заполняет накладную в iiko и отмечает строку, где единица не совпадает с товаром в iiko. Бухгалтер проверяет и подтверждает.\n\nПервые 10 дней — бесплатно.\nowlo.work/?utm_source=threads&utm_medium=social",
-      "status": "approved"
+      "status": "skipped",
+      "reason": "Threads paused 23.11",
+      "th_status": "paused"
     },
     {
       "id": "w49-r2-unit",
