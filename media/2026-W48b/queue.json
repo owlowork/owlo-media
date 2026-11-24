@@ -102,7 +102,9 @@
         "threads"
       ],
       "caption_th": "Одна накладная — дважды в iiko. Двойной приход, и остатки уже не сходятся.\n\nOwlo сразу отмечает накладную, которая уже есть в iiko. А новую заполняет сам: товары, количество, цены. Бухгалтер только проверяет и подтверждает.\n\nПервые 10 дней — бесплатно.\nowlo.work/?utm_source=threads&utm_medium=social",
-      "status": "approved"
+      "status": "skipped",
+      "th_status": "paused",
+      "reason": "Threads paused 23.11"
     },
     {
       "id": "w49-r3-dup",
