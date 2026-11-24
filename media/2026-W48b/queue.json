@@ -128,11 +128,10 @@
       "id": "th-r4-steps",
       "type": "text",
       "slot": "2026-11-25T18:00+04:00",
-      "platforms": [
-        "threads"
-      ],
+      "platforms": [],
       "caption_th": "Накладная в iiko — 3 шага:\n\n1. Загрузите накладную (фото, PDF или Excel).\n2. Owlo заполняет её в iiko: товары, количество, цены.\n3. Бухгалтер проверяет и подтверждает.\n\nБез ручного ввода строка за строкой. Первые 10 дней — бесплатно.\nowlo.work/?utm_source=threads&utm_medium=social",
-      "status": "approved"
+      "status": "skipped",
+      "note": "Threads paused 24.11 (Windsor limit)"
     },
     {
       "id": "w49-r4-steps",
@@ -152,11 +151,10 @@
       "id": "th-r5-dearer",
       "type": "text",
       "slot": "2026-11-26T18:00+04:00",
-      "platforms": [
-        "threads"
-      ],
+      "platforms": [],
       "caption_th": "Поставщик поднял цену. Вы узнали об этом — или фудкост просто вырос?\n\nOwlo заполняет накладные в iiko и сам собирает список товаров, которые подорожали в этом месяце. Без таблиц и ручных сравнений. Это уже в пакете Start — 23 000 ֏ в месяц.\n\nПервые 10 дней — бесплатно.\nowlo.work/?utm_source=threads&utm_medium=social",
-      "status": "approved"
+      "status": "skipped",
+      "note": "Threads paused 24.11 (Windsor limit)"
     },
     {
       "id": "w49-r5-dearer",
@@ -176,11 +174,10 @@
       "id": "th-r6-price",
       "type": "text",
       "slot": "2026-11-27T18:00+04:00",
-      "platforms": [
-        "threads"
-      ],
+      "platforms": [],
       "caption_th": "Сколько стоит Owlo? Start — 23 000 ֏ в месяц.\n\nЧто входит: Owlo заполняет накладные в iiko (товары, количество, цены), отмечает дубли и неверные строки, собирает список подорожавших товаров. До 300 документов в месяц.\n\nПервые 10 дней и подключение — бесплатно. Цены окончательные, НДС не взимается.\nowlo.work/?utm_source=threads&utm_medium=social",
-      "status": "approved"
+      "status": "skipped",
+      "note": "Threads paused 24.11 (Windsor limit)"
     },
     {
       "id": "w49-r6-price",
@@ -222,11 +219,10 @@
       "id": "th-r7-before",
       "type": "text",
       "slot": "2026-11-28T18:00+04:00",
-      "platforms": [
-        "threads"
-      ],
+      "platforms": [],
       "caption_th": "Было: бухгалтер вводит каждую строку накладной в iiko вручную.\nСтало: Owlo заполняет накладную в iiko сам — товары, количество, цены. Бухгалтер только проверяет и подтверждает.\n\nОт бумаг к контролю. Первые 10 дней — бесплатно.\nowlo.work/?utm_source=threads&utm_medium=social",
-      "status": "approved"
+      "status": "skipped",
+      "note": "Threads paused 24.11 (Windsor limit)"
     },
     {
       "id": "w49-r7-before",
