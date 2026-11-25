@@ -255,7 +255,7 @@
       "caption_tg": "Нам доверяют 🦉\n\nРестораны, которые уже заносят накладные в iiko через Owlo:\nBaklachoff Collection · Mamma Mia · Zepyur · Chichiko · Crème de la Crème\n\nТолько за 25 ноября — 74 накладные уже в iiko.\nOwlo заполняет накладную в iiko сам. Бухгалтер проверяет и подтверждает.\n\nНакладные в iiko — быстро и точно.\nХотите в этот список? Первые 10 дней — бесплатно. Работает с iiko.\n\n👉 owlo.work/?utm_source=telegram&utm_medium=post&utm_campaign=clients",
       "status": "approved",
       "approved_at": "2026-11-25T17:02+04:00",
-      "note": "Arsen approved 25.11 (client logos post, Baklachoff named by his decision). IG: publish with create_image_post and pass user_tags = user_tags_ig (tags on each logo tile). Caption IG uses @handles.",
+      "note": "Arsen approved 25.11 (client logos post, Baklachoff named by his decision). IG: publish with create_image_post and pass user_tags = user_tags_ig (tags on each logo tile). Caption IG uses @handles. After publish: post first_comment_ig / first_comment_fb as the first comment (Arsen approved 25.11). No collab invites — the restaurants will share it to their stories.",
       "user_tags_ig": [
         {
           "username": "mammamia.bybaklachoff",
@@ -282,7 +282,9 @@
           "x": 0.277,
           "y": 0.721
         }
-      ]
+      ],
+      "first_comment_ig": "Какой ресторан добавить в этот список следующим? 👇\nХотите подключить Owlo — напишите нам в Direct.",
+      "first_comment_fb": "Какой ресторан добавить в этот список следующим? 👇\nХотите подключить Owlo — напишите нам в Direct."
     }
   ]
 }
