@@ -145,7 +145,8 @@
       ],
       "caption_ig": "Накладная в iiko — 3 шага:\n\n1️⃣ Загрузите накладную: фото, PDF или Excel.\n2️⃣ Owlo заполняет её в iiko: товары, количество, цены.\n3️⃣ Бухгалтер проверяет и подтверждает. Последнее слово — за вами.\n\nНакладные в iiko — быстро и точно.\nStart — 23 000 ֏ в месяц · первые 10 дней — бесплатно · работает с iiko\n\n👉 owlo.work/?utm_source=instagram&utm_medium=reel\n#owlo #iiko #накладные #ресторан",
       "caption_fb": "Накладная в iiko — 3 шага:\n\n1️⃣ Загрузите накладную: фото, PDF или Excel.\n2️⃣ Owlo заполняет её в iiko: товары, количество, цены.\n3️⃣ Бухгалтер проверяет и подтверждает. Последнее слово — за вами.\n\nНакладные в iiko — быстро и точно.\nStart — 23 000 ֏ в месяц · первые 10 дней — бесплатно · работает с iiko\n\n👉 owlo.work/?utm_source=facebook&utm_medium=reel\n#owlo #iiko #накладные #ресторан",
-      "status": "approved"
+      "status": "on_hold",
+      "note": "25.11 17:35 Arsen: not today — replaced by owl video."
     },
     {
       "id": "th-r5-dearer",
@@ -291,6 +292,22 @@
       "ig_published_at": "2026-11-25T17:10+04:00",
       "ig_permalink": "https://www.instagram.com/p/DgKmqeLCJbK/",
       "tg_published_at": "2026-11-25T17:21+04:00"
+    },
+    {
+      "id": "w49-owl-ontime",
+      "type": "reel",
+      "slot": "2026-11-25T19:00+04:00",
+      "file": "w49-owl-ontime.mp4",
+      "cover": "w49-owl-ontime-cover.jpg",
+      "platforms": [
+        "instagram",
+        "facebook"
+      ],
+      "caption_ig": "Угу… Знакомо? 🦉\nПятнадцать накладных — и каждую вбивать в iiko вручную. А поставщик опять поднял цену.\n\nOwlo проверяет каждую строку, создаёт черновик в iiko и сразу показывает, где цена выросла. Бухгалтер только проверяет и подтверждает.\n\nНакладные в iiko — быстро и точно.\nПервые 10 дней — бесплатно · работает с iiko\n\n👉 owlo.work/?utm_source=instagram&utm_medium=reel&utm_campaign=owl\n#owlo #iiko #накладные #ресторан",
+      "caption_fb": "Угу… Знакомо? 🦉\nПятнадцать накладных — и каждую вбивать в iiko вручную. А поставщик опять поднял цену.\n\nOwlo проверяет каждую строку, создаёт черновик в iiko и сразу показывает, где цена выросла. Бухгалтер только проверяет и подтверждает.\n\nНакладные в iiko — быстро и точно.\nПервые 10 дней — бесплатно · работает с iiko\n\n👉 owlo.work/?utm_source=facebook&utm_medium=reel&utm_campaign=owl\n#owlo #iiko #накладные #ресторан",
+      "status": "approved",
+      "approved_at": "2026-11-25T17:35+04:00",
+      "note": "Arsen 25.11: post the owl video today instead of w49-r4-steps. Source Drive 1PqbPNxi17a4NS8d-z7AO2IgAJ9dCdcUZ."
     }
   ]
 }
