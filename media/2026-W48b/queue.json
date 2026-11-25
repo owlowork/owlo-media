@@ -250,12 +250,39 @@
         "facebook",
         "telegram"
       ],
-      "caption_ig": "Нам доверяют 🦉\n\nРестораны, которые уже заносят накладные в iiko через Owlo:\nBaklachoff Collection · Mamma Mia · Zepyur · Chichiko · Crème de la Crème\n\nТолько за 25 ноября — 74 накладные уже в iiko.\nOwlo заполняет накладную в iiko сам. Бухгалтер проверяет и подтверждает.\n\nНакладные в iiko — быстро и точно.\nХотите в этот список? Первые 10 дней — бесплатно. Работает с iiko.\n\n👉 owlo.work/?utm_source=instagram&utm_medium=post&utm_campaign=clients\n#owlo #iiko #накладные #ресторан",
+      "caption_ig": "Нам доверяют 🦉\n\nРестораны, которые уже заносят накладные в iiko через Owlo:\n@baklachoffcollection · @mammamia.bybaklachoff · @zepyur.bybaklachoff · @chichiko.bybaklachoff · @cremedelacreme.bybaklachoff\n\nТолько за 25 ноября — 74 накладные уже в iiko.\nOwlo заполняет накладную в iiko сам. Бухгалтер проверяет и подтверждает.\n\nНакладные в iiko — быстро и точно.\nХотите в этот список? Первые 10 дней — бесплатно. Работает с iiko.\n\n👉 owlo.work/?utm_source=instagram&utm_medium=post&utm_campaign=clients\n#owlo #iiko #накладные #ресторан",
       "caption_fb": "Нам доверяют 🦉\n\nРестораны, которые уже заносят накладные в iiko через Owlo:\nBaklachoff Collection · Mamma Mia · Zepyur · Chichiko · Crème de la Crème\n\nТолько за 25 ноября — 74 накладные уже в iiko.\nOwlo заполняет накладную в iiko сам. Бухгалтер проверяет и подтверждает.\n\nНакладные в iiko — быстро и точно.\nХотите в этот список? Первые 10 дней — бесплатно. Работает с iiko.\n\n👉 owlo.work/?utm_source=facebook&utm_medium=post&utm_campaign=clients\n#owlo #iiko #накладные #ресторан",
       "caption_tg": "Нам доверяют 🦉\n\nРестораны, которые уже заносят накладные в iiko через Owlo:\nBaklachoff Collection · Mamma Mia · Zepyur · Chichiko · Crème de la Crème\n\nТолько за 25 ноября — 74 накладные уже в iiko.\nOwlo заполняет накладную в iiko сам. Бухгалтер проверяет и подтверждает.\n\nНакладные в iiko — быстро и точно.\nХотите в этот список? Первые 10 дней — бесплатно. Работает с iiko.\n\n👉 owlo.work/?utm_source=telegram&utm_medium=post&utm_campaign=clients",
       "status": "approved",
       "approved_at": "2026-11-25T17:02+04:00",
-      "note": "Arsen approved 25.11 (client logos post, Baklachoff named by his decision)"
+      "note": "Arsen approved 25.11 (client logos post, Baklachoff named by his decision). IG: publish with create_image_post and pass user_tags = user_tags_ig (tags on each logo tile). Caption IG uses @handles.",
+      "user_tags_ig": [
+        {
+          "username": "mammamia.bybaklachoff",
+          "x": 0.277,
+          "y": 0.434
+        },
+        {
+          "username": "zepyur.bybaklachoff",
+          "x": 0.723,
+          "y": 0.434
+        },
+        {
+          "username": "chichiko.bybaklachoff",
+          "x": 0.277,
+          "y": 0.578
+        },
+        {
+          "username": "cremedelacreme.bybaklachoff",
+          "x": 0.723,
+          "y": 0.578
+        },
+        {
+          "username": "baklachoffcollection",
+          "x": 0.277,
+          "y": 0.721
+        }
+      ]
     }
   ]
 }
