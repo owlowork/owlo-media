@@ -1,0 +1,176 @@
+{
+ "week": "2026-W49 (29.11–05.12, Run A 28.11)",
+ "lang": {
+  "instagram": "ru",
+  "facebook": "ru",
+  "telegram": "ru",
+  "linkedin": "en"
+ },
+ "note": "No-approval mode. Reels IG+FB 19:00 daily (TG Sun 29.11 + Sat 05.12); carousels Tue+Sat 11:00 IG+FB; LinkedIn Fri 04.12 here, Mon 30.11 + Wed 02.12 already in 2026-W48r (r3-how, r4-dearer).",
+ "items": [
+  {
+   "id": "w49-r8-monthend",
+   "type": "reel",
+   "slot": "2026-11-29T19:00+04:00",
+   "file": "w49-r8-monthend.mp4",
+   "cover": "w49-r8-monthend-cover.jpg",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "telegram"
+   ],
+   "caption_ig": "Завтра — конец месяца. Все накладные уже в iiko? 🗓\n\nOwlo заполняет накладную в iiko: товары, количество, цены. Бухгалтер только проверяет и подтверждает.\nА в пакете Business Owlo сверяет месяц с налоговым списком: если какой-то накладной нет в iiko — это видно сразу.\n\nНакладные в iiko — быстро и точно.\nStart — 23 000 ֏ в месяц · Business — 59 000 ֏ · первые 10 дней — бесплатно · работает с iiko\n\n👉 owlo.work/?utm_source=instagram&utm_medium=reel\n#owlo #iiko #накладные #ресторан",
+   "caption_fb": "Завтра — конец месяца. Все накладные уже в iiko? 🗓\n\nOwlo заполняет накладную в iiko: товары, количество, цены. Бухгалтер только проверяет и подтверждает.\nА в пакете Business Owlo сверяет месяц с налоговым списком: если какой-то накладной нет в iiko — это видно сразу.\n\nНакладные в iiko — быстро и точно.\nStart — 23 000 ֏ в месяц · Business — 59 000 ֏ · первые 10 дней — бесплатно · работает с iiko\n\n👉 owlo.work/?utm_source=facebook&utm_medium=reel\n#owlo #iiko #накладные #ресторан",
+   "caption_tg": "Завтра — конец месяца. Все накладные уже в iiko? 🗓\n\nOwlo заполняет накладную в iiko: товары, количество, цены. Бухгалтер только проверяет и подтверждает.\nА в пакете Business Owlo сверяет месяц с налоговым списком: если какой-то накладной нет в iiko — это видно сразу.\n\nНакладные в iiko — быстро и точно.\nStart — 23 000 ֏ в месяц · Business — 59 000 ֏ · первые 10 дней — бесплатно · работает с iiko\n\n👉 owlo.work/?utm_source=telegram&utm_medium=reel",
+   "status": "approved",
+   "qc": "Run A 28.11: real app screens (demo segments, RU-only patches), hook 1.6 s, end card, prices/10 days checked"
+  },
+  {
+   "id": "w50-r1-dearer-nov",
+   "type": "reel",
+   "slot": "2026-11-30T19:00+04:00",
+   "file": "w50-r1-dearer-nov.mp4",
+   "cover": "w50-r1-dearer-nov-cover.jpg",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "caption_ig": "Ноябрь закончился. Что подорожало? 📈\n\nOwlo заполняет накладные в iiko и берёт цены прямо из них. Поэтому видно, где поставщик поднял цену.\n• Start — простой список товаров, которые подорожали в этом месяце\n• Pro — подробная сводка: поставщик, %, сумма\n(В видео — пример.)\n\nStart — 23 000 ֏ в месяц · Pro — 34 000 ֏ · первые 10 дней — бесплатно · работает с iiko\n\n👉 owlo.work/?utm_source=instagram&utm_medium=reel\n#owlo #iiko #накладные #ресторан",
+   "caption_fb": "Ноябрь закончился. Что подорожало? 📈\n\nOwlo заполняет накладные в iiko и берёт цены прямо из них. Поэтому видно, где поставщик поднял цену.\n• Start — простой список товаров, которые подорожали в этом месяце\n• Pro — подробная сводка: поставщик, %, сумма\n(В видео — пример.)\n\nStart — 23 000 ֏ в месяц · Pro — 34 000 ֏ · первые 10 дней — бесплатно · работает с iiko\n\n👉 owlo.work/?utm_source=facebook&utm_medium=reel\n#owlo #iiko #накладные #ресторан",
+   "status": "approved",
+   "qc": "Run A 28.11: real app screens (demo segments, RU-only patches), hook 1.6 s, end card, prices/10 days checked"
+  },
+  {
+   "id": "w50-c1-plans",
+   "type": "carousel",
+   "slot": "2026-12-01T11:00+04:00",
+   "file": "w50-c1-plans-1.jpg",
+   "files": [
+    "w50-c1-plans-1.jpg",
+    "w50-c1-plans-2.jpg",
+    "w50-c1-plans-3.jpg",
+    "w50-c1-plans-4.jpg",
+    "w50-c1-plans-5.jpg"
+   ],
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "caption_ig": "Start, Pro или Business — какой пакет Owlo вам подходит? 📌\n\nStart — 23 000 ֏ в месяц: Owlo заполняет накладную в iiko (товары, количество, цены), отмечает дубли и неверные строки, собирает список подорожавших товаров. До 300 документов.\nPro — 34 000 ֏: всё из Start + подробная сводка цен (поставщик, %, сумма) + списания и перемещения.\nBusiness — 59 000 ֏: всё из Pro + сверка месяца с налоговым списком и корректировочные накладные.\n\nБольше документов (Pro и Business): до 600 — +20 000 ֏, до 800 — +30 000 ֏. Доп. ресторан — +10 000 ֏.\nОплата за год — 12 месяцев по цене 10.\nПервые 10 дней — бесплатно, подключение бесплатно. Цены окончательные, НДС не взимается. Работает с iiko.\n\n👉 owlo.work/?utm_source=instagram\n#owlo #iiko #накладные #ресторан",
+   "caption_fb": "Start, Pro или Business — какой пакет Owlo вам подходит? 📌\n\nStart — 23 000 ֏ в месяц: Owlo заполняет накладную в iiko (товары, количество, цены), отмечает дубли и неверные строки, собирает список подорожавших товаров. До 300 документов.\nPro — 34 000 ֏: всё из Start + подробная сводка цен (поставщик, %, сумма) + списания и перемещения.\nBusiness — 59 000 ֏: всё из Pro + сверка месяца с налоговым списком и корректировочные накладные.\n\nБольше документов (Pro и Business): до 600 — +20 000 ֏, до 800 — +30 000 ֏. Доп. ресторан — +10 000 ֏.\nОплата за год — 12 месяцев по цене 10.\nПервые 10 дней — бесплатно, подключение бесплатно. Цены окончательные, НДС не взимается. Работает с iiko.\n\n👉 owlo.work/?utm_source=facebook\n#owlo #iiko #накладные #ресторан",
+   "fb_note": "Facebook: all slides as a multi-photo post if supported, else slide 1 only",
+   "status": "approved"
+  },
+  {
+   "id": "w50-r2-formats",
+   "type": "reel",
+   "slot": "2026-12-01T19:00+04:00",
+   "file": "w50-r2-formats.mp4",
+   "cover": "w50-r2-formats-cover.jpg",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "caption_ig": "Декабрь. Новая стопка накладных. 📚\n\nФото, PDF или Excel от поставщика — Owlo заполняет накладную в iiko: товары, количество, цены. Каждая строка проверена. Бухгалтер только проверяет и подтверждает.\n\nНакладные в iiko — быстро и точно.\nStart — 23 000 ֏ в месяц · первые 10 дней — бесплатно · работает с iiko\n\n👉 owlo.work/?utm_source=instagram&utm_medium=reel\n#owlo #iiko #накладные #ресторан",
+   "caption_fb": "Декабрь. Новая стопка накладных. 📚\n\nФото, PDF или Excel от поставщика — Owlo заполняет накладную в iiko: товары, количество, цены. Каждая строка проверена. Бухгалтер только проверяет и подтверждает.\n\nНакладные в iiko — быстро и точно.\nStart — 23 000 ֏ в месяц · первые 10 дней — бесплатно · работает с iiko\n\n👉 owlo.work/?utm_source=facebook&utm_medium=reel\n#owlo #iiko #накладные #ресторан",
+   "status": "approved",
+   "qc": "Run A 28.11: real app screens (demo segments, RU-only patches), hook 1.6 s, end card, prices/10 days checked"
+  },
+  {
+   "id": "w50-r3-flags",
+   "type": "reel",
+   "slot": "2026-12-02T19:00+04:00",
+   "file": "w50-r3-flags.mp4",
+   "cover": "w50-r3-flags-cover.jpg",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "caption_ig": "Ошибка в строке накладной? 🔍\nНе та цена, не та единица — и фудкост уже неверный.\n\nOwlo проверяет каждую строку и отмечает оранжевым то, что стоит проверить. Бухгалтер смотрит, исправляет, подтверждает — и черновик в iiko. Решение — за вами.\n\nКаждая строка проверена.\nStart — 23 000 ֏ в месяц · первые 10 дней — бесплатно · работает с iiko\n\n👉 owlo.work/?utm_source=instagram&utm_medium=reel\n#owlo #iiko #накладные #ресторан",
+   "caption_fb": "Ошибка в строке накладной? 🔍\nНе та цена, не та единица — и фудкост уже неверный.\n\nOwlo проверяет каждую строку и отмечает оранжевым то, что стоит проверить. Бухгалтер смотрит, исправляет, подтверждает — и черновик в iiko. Решение — за вами.\n\nКаждая строка проверена.\nStart — 23 000 ֏ в месяц · первые 10 дней — бесплатно · работает с iiko\n\n👉 owlo.work/?utm_source=facebook&utm_medium=reel\n#owlo #iiko #накладные #ресторан",
+   "status": "approved",
+   "qc": "Run A 28.11: real app screens (demo segments, RU-only patches), hook 1.6 s, end card, prices/10 days checked"
+  },
+  {
+   "id": "w50-r4-writeoff",
+   "type": "reel",
+   "slot": "2026-12-03T19:00+04:00",
+   "file": "w50-r4-writeoff.mp4",
+   "cover": "w50-r4-writeoff-cover.jpg",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "caption_ig": "Списания и перемещения — тоже вручную? ✍️\n\nВ пакете Pro Owlo готовит в iiko не только накладные, но и списания и перемещения. Бухгалтер проверяет и подтверждает.\n\nНакладные в iiko — быстро и точно.\nPro — 34 000 ֏ в месяц · первые 10 дней — бесплатно · работает с iiko\n\n👉 owlo.work/?utm_source=instagram&utm_medium=reel\n#owlo #iiko #накладные #ресторан",
+   "caption_fb": "Списания и перемещения — тоже вручную? ✍️\n\nВ пакете Pro Owlo готовит в iiko не только накладные, но и списания и перемещения. Бухгалтер проверяет и подтверждает.\n\nНакладные в iiko — быстро и точно.\nPro — 34 000 ֏ в месяц · первые 10 дней — бесплатно · работает с iiko\n\n👉 owlo.work/?utm_source=facebook&utm_medium=reel\n#owlo #iiko #накладные #ресторан",
+   "status": "approved",
+   "qc": "Run A 28.11: real app screens (demo segments, RU-only patches), hook 1.6 s, end card, prices/10 days checked"
+  },
+  {
+   "id": "w50-li-yearly",
+   "type": "image",
+   "slot": "2026-12-04T11:00+04:00",
+   "file": "w50-li-yearly-en.jpg",
+   "file_li": "w50-li-yearly-en.jpg",
+   "platforms": [
+    "linkedin"
+   ],
+   "caption_li": "New at Owlo: pay yearly — 12 months for the price of 10.\n\nStart — 230,000 AMD / year\nPro — 340,000 AMD / year\nBusiness — 590,000 AMD / year\nVolume add-ons ×10 · extra restaurant +100,000 AMD / year\n\nFinal prices, no VAT charged. Monthly plans stay as they are.\nOwlo fills in supplier invoices in iiko — items, quantities, prices. Your accountant checks and confirms.\n\nFirst 10 days free · works with iiko\n👉 owlo.work/?utm_source=linkedin\n#restaurants #iiko #foodcost #hospitality",
+   "status": "approved"
+  },
+  {
+   "id": "w50-r5-dup",
+   "type": "reel",
+   "slot": "2026-12-04T19:00+04:00",
+   "file": "w50-r5-dup.mp4",
+   "cover": "w50-r5-dup-cover.jpg",
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "caption_ig": "Эту накладную уже вносили? 😬\nДвойной приход — и остатки, и фудкост уже не те.\n\nOwlo отмечает документ, который уже загружен. Решение — за бухгалтером. А остальное Owlo заполняет в iiko сам: товары, количество, цены.\n\nНакладные в iiko — быстро и точно.\nStart — 23 000 ֏ в месяц · первые 10 дней — бесплатно · работает с iiko\n\n👉 owlo.work/?utm_source=instagram&utm_medium=reel\n#owlo #iiko #накладные #ресторан",
+   "caption_fb": "Эту накладную уже вносили? 😬\nДвойной приход — и остатки, и фудкост уже не те.\n\nOwlo отмечает документ, который уже загружен. Решение — за бухгалтером. А остальное Owlo заполняет в iiko сам: товары, количество, цены.\n\nНакладные в iiko — быстро и точно.\nStart — 23 000 ֏ в месяц · первые 10 дней — бесплатно · работает с iiko\n\n👉 owlo.work/?utm_source=facebook&utm_medium=reel\n#owlo #iiko #накладные #ресторан",
+   "status": "approved",
+   "qc": "Run A 28.11: real app screens (demo segments, RU-only patches), hook 1.6 s, end card, prices/10 days checked"
+  },
+  {
+   "id": "w50-c2-monthend",
+   "type": "carousel",
+   "slot": "2026-12-05T11:00+04:00",
+   "file": "w50-c2-monthend-1.jpg",
+   "files": [
+    "w50-c2-monthend-1.jpg",
+    "w50-c2-monthend-2.jpg",
+    "w50-c2-monthend-3.jpg",
+    "w50-c2-monthend-4.jpg",
+    "w50-c2-monthend-5.jpg",
+    "w50-c2-monthend-6.jpg"
+   ],
+   "platforms": [
+    "instagram",
+    "facebook"
+   ],
+   "caption_ig": "Закрытие месяца в iiko: 4 проверки 📌 Сохраните — пригодится бухгалтеру.\n\n1. Все накладные внесены? Сверьте iiko со списком из налоговой.\n2. Нет дублей? Одна накладная — один приход.\n3. Корректировочные учтены? Исходная накладная должна быть исправлена.\n4. Цены проверены? Что подорожало и у какого поставщика.\n\nOwlo заполняет накладную в iiko, бухгалтер проверяет и подтверждает. Сверка месяца с налоговым списком — в пакете Business, 59 000 ֏ в месяц.\nПервые 10 дней — бесплатно · работает с iiko\n\n👉 owlo.work/?utm_source=instagram\n#owlo #iiko #накладные #ресторан",
+   "caption_fb": "Закрытие месяца в iiko: 4 проверки 📌 Сохраните — пригодится бухгалтеру.\n\n1. Все накладные внесены? Сверьте iiko со списком из налоговой.\n2. Нет дублей? Одна накладная — один приход.\n3. Корректировочные учтены? Исходная накладная должна быть исправлена.\n4. Цены проверены? Что подорожало и у какого поставщика.\n\nOwlo заполняет накладную в iiko, бухгалтер проверяет и подтверждает. Сверка месяца с налоговым списком — в пакете Business, 59 000 ֏ в месяц.\nПервые 10 дней — бесплатно · работает с iiko\n\n👉 owlo.work/?utm_source=facebook\n#owlo #iiko #накладные #ресторан",
+   "fb_note": "Facebook: all slides as a multi-photo post if supported, else slide 1 only",
+   "status": "approved"
+  },
+  {
+   "id": "w50-r6-correct",
+   "type": "reel",
+   "slot": "2026-12-05T19:00+04:00",
+   "file": "w50-r6-correct.mp4",
+   "cover": "w50-r6-correct-cover.jpg",
+   "platforms": [
+    "instagram",
+    "facebook",
+    "telegram"
+   ],
+   "caption_ig": "Поставщик прислал корректировочную накладную? 🧾\n\nВ пакете Business Owlo сверяет месяц с налоговым списком и учитывает корректировочные накладные: исходный документ исправлен. Бухгалтер проверяет и подтверждает.\n\nОт бумаг к контролю.\nBusiness — 59 000 ֏ в месяц · первые 10 дней — бесплатно · работает с iiko\n\n👉 owlo.work/?utm_source=instagram&utm_medium=reel\n#owlo #iiko #накладные #ресторан",
+   "caption_fb": "Поставщик прислал корректировочную накладную? 🧾\n\nВ пакете Business Owlo сверяет месяц с налоговым списком и учитывает корректировочные накладные: исходный документ исправлен. Бухгалтер проверяет и подтверждает.\n\nОт бумаг к контролю.\nBusiness — 59 000 ֏ в месяц · первые 10 дней — бесплатно · работает с iiko\n\n👉 owlo.work/?utm_source=facebook&utm_medium=reel\n#owlo #iiko #накладные #ресторан",
+   "caption_tg": "Поставщик прислал корректировочную накладную? 🧾\n\nВ пакете Business Owlo сверяет месяц с налоговым списком и учитывает корректировочные накладные: исходный документ исправлен. Бухгалтер проверяет и подтверждает.\n\nОт бумаг к контролю.\nBusiness — 59 000 ֏ в месяц · первые 10 дней — бесплатно · работает с iiko\n\n👉 owlo.work/?utm_source=telegram&utm_medium=reel",
+   "status": "approved",
+   "qc": "Run A 28.11: real app screens (demo segments, RU-only patches), hook 1.6 s, end card, prices/10 days checked"
+  }
+ ]
+}
